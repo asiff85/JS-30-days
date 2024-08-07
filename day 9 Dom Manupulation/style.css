@@ -1,0 +1,12 @@
+.container {
+    width: 50%;
+    margin: auto;
+    height: 100%;
+
+}
+
+.button {
+    height: 40px;
+    width: 60px;
+    background-color: yellowgreen;
+}

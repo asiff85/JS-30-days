@@ -1,0 +1,26 @@
+.container {
+    width: 40%;
+    height: 100%;
+    margin: auto;
+
+}
+
+.clickMeBtn {
+    height: 40px;
+    width: 100px;
+    background-color: yellow;
+    color: black;
+}
+
+.MineImg {
+    width: 50%;
+    height: 50%;
+    display: block;
+}
+
+.backgroundColorChange {
+    width: 160px;
+    height: 60px;
+    background-color: black;
+    color: white;
+}
